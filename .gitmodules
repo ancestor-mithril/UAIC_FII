@@ -43,3 +43,6 @@
 [submodule "Haskell_FNSC"]
 	path = Haskell_FNSC
 	url = https://github.com/ancestor-mithril/Haskell_FNSC.git
+[submodule "SPEL"]
+	path = SPEL
+	url = https://github.com/ancestor-mithril/SPEL.git
