@@ -46,3 +46,6 @@
 [submodule "SPEL"]
 	path = SPEL
 	url = https://github.com/ancestor-mithril/SPEL.git
+[submodule "UAIC_FII_DIP"]
+	path = UAIC_FII_DIP
+	url = https://github.com/ancestor-mithril/UAIC_FII_DIP.git
