@@ -1,0 +1,45 @@
+[submodule "UAIC_FII_ACNN"]
+	path = UAIC_FII_ACNN
+	url = https://github.com/ancestor-mithril/UAIC_FII_ACNN.git
+[submodule "UAIC_FII_ACAI"]
+	path = UAIC_FII_ACAI
+	url = https://github.com/ancestor-mithril/UAIC_FII_ACAI.git
+[submodule "UAIC_FII_POO"]
+	path = UAIC_FII_POO
+	url = https://github.com/ancestor-mithril/UAIC_FII_POO.git
+[submodule "UAIC_FII_CN"]
+	path = UAIC_FII_CN
+	url = https://github.com/ancestor-mithril/UAIC_FII_CN.git
+[submodule "UAIC_FII_ARMS"]
+	path = UAIC_FII_ARMS
+	url = https://github.com/ancestor-mithril/UAIC_FII_ARMS.git
+[submodule "UAIC_FII_GPC"]
+	path = UAIC_FII_GPC
+	url = https://github.com/ancestor-mithril/UAIC_FII_GPC.git
+[submodule "UAIC_FII_TSP.NET"]
+	path = UAIC_FII_TSP.NET
+	url = https://github.com/ancestor-mithril/UAIC_FII_TSP.NET.git
+[submodule "UAIC_FII_PYTHON"]
+	path = UAIC_FII_PYTHON
+	url = https://github.com/ancestor-mithril/UAIC_FII_PYTHON.git
+[submodule "UAIC_FII_ML"]
+	path = UAIC_FII_ML
+	url = https://github.com/ancestor-mithril/UAIC_FII_ML.git
+[submodule "Carcassonne"]
+	path = Carcassonne
+	url = https://github.com/ancestor-mithril/Carcassonne.git
+[submodule "RealQuest"]
+	path = RealQuest
+	url = https://github.com/firststef/RealQuest.git
+[submodule "UAIC_FII_RN"]
+	path = UAIC_FII_RN
+	url = https://github.com/ancestor-mithril/UAIC_FII_RN.git
+[submodule "UAIC_FII_AI"]
+	path = UAIC_FII_AI
+	url = https://github.com/ancestor-mithril/UAIC_FII_AI.git
+[submodule "UAIC_FII_SI"]
+	path = UAIC_FII_SI
+	url = https://github.com/ancestor-mithril/UAIC_FII_SI.git
+[submodule "Haskell_FNSC"]
+	path = Haskell_FNSC
+	url = https://github.com/ancestor-mithril/Haskell_FNSC.git
