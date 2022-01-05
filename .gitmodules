@@ -49,3 +49,6 @@
 [submodule "UAIC_FII_DIP"]
 	path = UAIC_FII_DIP
 	url = https://github.com/ancestor-mithril/UAIC_FII_DIP.git
+[submodule "DQ-RL"]
+	path = DQ-RL
+	url = https://github.com/ancestor-mithril/DQ-RL.git
