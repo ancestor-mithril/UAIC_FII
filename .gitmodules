@@ -52,3 +52,6 @@
 [submodule "DQ-RL"]
 	path = DQ-RL
 	url = https://github.com/ancestor-mithril/DQ-RL.git
+[submodule "LandmarkRetrieval"]
+	path = LandmarkRetrieval
+	url = https://github.com/georgiana-ojoc/LandmarkRetrieval
