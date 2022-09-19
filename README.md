@@ -59,3 +59,8 @@ My work while studying at UAIC
  * [LandmarkRetrieval](https://github.com/georgiana-ojoc/LandmarkRetrieval/tree/main)
    * Python, OpenCV, Pythorch, TypeScript, Angular for a web application for image recognition and image retrieval 
  
+ #### Second Semester
+  * [UAIC_FII_NIM](https://github.com/ancestor-mithril/UAIC_FII_NIM/tree/master)
+    * C++20 implementation of GA and PSO for solving constrained optimization problems
+  * [UAIC_FII_CV](https://github.com/ancestor-mithril/UAIC_FII_CV/tree/master)
+    * Jupyter Notebooks (numpy, scikit, keras) for Computer Vision tasks
