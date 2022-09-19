@@ -55,3 +55,9 @@
 [submodule "LandmarkRetrieval"]
 	path = LandmarkRetrieval
 	url = https://github.com/georgiana-ojoc/LandmarkRetrieval
+[submodule "UAIC_FII_NIM"]
+	path = UAIC_FII_NIM
+	url = https://github.com/ancestor-mithril/UAIC_FII_NIM.git
+[submodule "UAIC_FII_CV"]
+	path = UAIC_FII_CV
+	url = https://github.com/ancestor-mithril/UAIC_FII_CV.git
